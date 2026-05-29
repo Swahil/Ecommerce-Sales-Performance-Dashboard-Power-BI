@@ -51,7 +51,7 @@ This dashboard was built to answer all of the above from a single, filterable vi
 
 ---
 
-# Dashboard Preview
+# Dashboard_Preview
 
 > _Open `ECOMMERCE.pbix` in Power BI Desktop to interact with the live dashboard._
 
@@ -70,7 +70,7 @@ This dashboard was built to answer all of the above from a single, filterable vi
 
 ---
 
-# Key Metrics & KPIs
+# Key_Metrics_&_KPIs
 
 | KPI | Description |
 |---|---|
@@ -84,7 +84,7 @@ This dashboard was built to answer all of the above from a single, filterable vi
 
 ---
 
-# Data Model
+# Data_Model
 
 The report is built on a **Star Schema** consisting of:
 
@@ -116,7 +116,7 @@ item_dim ────────────── fact_table (item key)
 
 ---
 
-# DAX Measures
+# DAX_Measures
 
 All calculated measures live in a dedicated `DAX Measures` table for clean model organisation. Core measures include:
 
@@ -158,7 +158,7 @@ DIVIDE(
 
 ---
 
-# Dashboard Features
+# Dashboard_Features
 
 - **Dynamic Year Filter** — Slicer on `Dates[Year]` propagates across all 16 visuals simultaneously
 - **Cross-Visual Filtering** — Click any bar, slice, or map region to filter the entire dashboard
@@ -169,7 +169,7 @@ DIVIDE(
 
 ---
 
-# File Structure
+# File_Structure
 
 ```
  ecommerce-powerbi-dashboard/
@@ -189,7 +189,7 @@ DIVIDE(
 
 ---
 
-# How to Use
+# How_to_use
 
 ## Prerequisites
 
@@ -226,7 +226,7 @@ Home → Publish → Select your workspace → Open in Power BI Service
 
 ---
 
-# Tools & Technologies
+# Tools_&_Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -238,7 +238,7 @@ Home → Publish → Select your workspace → Open in Power BI Service
 
 ---
 
-# Insights & Findings
+# Insights_&_Findings
 
 > _Replace with findings from your specific dataset. Examples below:_
 
@@ -263,7 +263,7 @@ Based on the dashboard analysis:
 
 ---
 
-# Future Enhancements
+# Future_Enhancements
 
 - [ ] Add a **Product Category** dimension for deeper SKU-level analysis
 - [ ] Build a **Drill-Through page** for individual customer or product deep-dives

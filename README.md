@@ -15,7 +15,7 @@ Designed to help ecommerce businesses see if they’re truly growing, this dashb
 - [Project_Overview](#Project_Overview)
 - [Business_Problem](#Business_Problem)
 - [Dashboard_Preview](#Dashboard_Preview)
-- [Key_Metrics_and_KPIs](#Key_Metrics_and_KPIs)
+- [Key Metrics and KPIs](#Key_Metrics_and_KPIs)
 - [Data_Model](#Data_Model)
 - [DAX_Measures](#DAX_Measures)
 - [Dashboard_Features](#Dashboard_Features)

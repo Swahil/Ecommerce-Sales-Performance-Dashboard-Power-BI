@@ -22,7 +22,7 @@ Designed to help ecommerce businesses see if they’re truly growing, this dashb
 - [File_Structure](#File_Structure)
 - [How_to_use](#How_to_use)
 - [Tools and Technologies](#Tools_and_Technologies)
-- [Insights & Findings](#Insights_&_Findings)
+- [Insights and Findings](#Insights_and_Findings)
 - [Recommendations](#Recommendations)
 - [Future Enhancements](#Future_Enhancements)
 - [Author](#Author)

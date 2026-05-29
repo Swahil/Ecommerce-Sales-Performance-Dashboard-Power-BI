@@ -70,7 +70,7 @@ This dashboard was built to answer all of the above from a single, filterable vi
 
 ---
 
-# Key_Metrics_&_KPIs
+# Key_Metrics_and_KPIs
 
 | KPI | Description |
 |---|---|

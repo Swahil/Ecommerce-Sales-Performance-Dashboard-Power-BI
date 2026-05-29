@@ -13,23 +13,23 @@ Designed to help ecommerce businesses see if they’re truly growing, this dashb
 ##  Table of Contents
 
 - [Project_Overview](#Project_Overview)
-- [Business_Problem](##Business_Problem)
-- [Dashboard_Preview](##Dashboard_Preview)
-- [Key_Metrics_&_KPIs](##Key_Metrics_&_KPIs)
-- [Data_Model](##Data_Model)
-- [DAX_Measures](##DAX_Measures)
-- [Dashboard_Features](##Dashboard_Features)
-- [File_Structure](##File_Structure)
-- [How_to_use](##How_to_use)
-- [Tools & Technologies](##Tools_&_Technologies)
-- [Insights & Findings](##Insights_&_Findings)
-- [Recommendations](##Recommendations)
-- [Future Enhancements](##Future_Enhancements)
-- [Author](##Author)
+- [Business_Problem](#Business_Problem)
+- [Dashboard_Preview](#Dashboard_Preview)
+- [Key_Metrics_&_KPIs](#Key_Metrics_&_KPIs)
+- [Data_Model](#Data_Model)
+- [DAX_Measures](#DAX_Measures)
+- [Dashboard_Features](#Dashboard_Features)
+- [File_Structure](#File_Structure)
+- [How_to_use](#How_to_use)
+- [Tools & Technologies](#Tools_&_Technologies)
+- [Insights & Findings](#Insights_&_Findings)
+- [Recommendations](#Recommendations)
+- [Future Enhancements](#Future_Enhancements)
+- [Author](#Author)
 
 ---
 
-#  Project Overview
+# Project Overview
 
 This project delivers an **interactive single-page Power BI dashboard** designed for ecommerce business stakeholders to monitor sales health, customer behaviour, and product movement in real time. It enables data-driven decision-making by surfacing year-over-year (YoY) trends across revenue, volume, pricing, and customer base.
 
@@ -37,7 +37,7 @@ This project delivers an **interactive single-page Power BI dashboard** designed
 
 ---
 
-##  Business Problem
+# Business Problem
 
 Ecommerce businesses often struggle to answer questions like:
 
@@ -51,7 +51,7 @@ This dashboard was built to answer all of the above from a single, filterable vi
 
 ---
 
-##  Dashboard Preview
+# Dashboard Preview
 
 > _Open `ECOMMERCE.pbix` in Power BI Desktop to interact with the live dashboard._
 
@@ -70,7 +70,7 @@ This dashboard was built to answer all of the above from a single, filterable vi
 
 ---
 
-##  Key Metrics & KPIs
+# Key Metrics & KPIs
 
 | KPI | Description |
 |---|---|
@@ -84,7 +84,7 @@ This dashboard was built to answer all of the above from a single, filterable vi
 
 ---
 
-##  Data Model
+# Data Model
 
 The report is built on a **Star Schema** consisting of:
 
@@ -104,7 +104,7 @@ Dates
     └── Year
 ```
 
-### Table Relationships
+## Table Relationships
 
 ```
 Dates ──────────────── fact_table (date key)
@@ -116,7 +116,7 @@ item_dim ────────────── fact_table (item key)
 
 ---
 
-##  DAX Measures
+# DAX Measures
 
 All calculated measures live in a dedicated `DAX Measures` table for clean model organisation. Core measures include:
 
@@ -158,7 +158,7 @@ DIVIDE(
 
 ---
 
-##  Dashboard Features
+# Dashboard Features
 
 - **Dynamic Year Filter** — Slicer on `Dates[Year]` propagates across all 16 visuals simultaneously
 - **Cross-Visual Filtering** — Click any bar, slice, or map region to filter the entire dashboard
@@ -169,7 +169,7 @@ DIVIDE(
 
 ---
 
-##  File Structure
+# File Structure
 
 ```
  ecommerce-powerbi-dashboard/
@@ -189,14 +189,14 @@ DIVIDE(
 
 ---
 
-##  How to Use
+# How to Use
 
-### Prerequisites
+## Prerequisites
 
 - [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) (latest version recommended)
 - Windows OS (Power BI Desktop is Windows-only)
 
-### Steps
+## Steps
 
 1. **Clone the repository**
    ```bash
@@ -218,7 +218,7 @@ DIVIDE(
    - Click any visual element to cross-filter
    - Hover over data points for tooltip details
 
-### Publishing to Power BI Service
+## Publishing to Power BI Service
 
 ```
 Home → Publish → Select your workspace → Open in Power BI Service
@@ -226,7 +226,7 @@ Home → Publish → Select your workspace → Open in Power BI Service
 
 ---
 
-##  Tools & Technologies
+# Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -238,7 +238,7 @@ Home → Publish → Select your workspace → Open in Power BI Service
 
 ---
 
-##  Insights & Findings
+# Insights & Findings
 
 > _Replace with findings from your specific dataset. Examples below:_
 
@@ -251,7 +251,7 @@ Home → Publish → Select your workspace → Open in Power BI Service
 
 ---
 
-##  Recommendations
+# Recommendations
 
 Based on the dashboard analysis:
 
@@ -263,7 +263,7 @@ Based on the dashboard analysis:
 
 ---
 
-##  Future Enhancements
+# Future Enhancements
 
 - [ ] Add a **Product Category** dimension for deeper SKU-level analysis
 - [ ] Build a **Drill-Through page** for individual customer or product deep-dives
@@ -276,7 +276,7 @@ Based on the dashboard analysis:
 
 ---
 
-##  Author
+# Author
 
 **[Your Name]**
 
@@ -286,7 +286,7 @@ Based on the dashboard analysis:
 
 ---
 
-##  License
+# License
 
 This project is licensed under the [MIT License](LICENSE) — free to use, adapt, and share with attribution.
 

@@ -20,7 +20,7 @@ Designed to help ecommerce businesses see if they’re truly growing, this dashb
 - [DAX Measures](#-dax-measures)
 - [Dashboard Features](#-dashboard-features)
 - [File Structure](#-file-structure)
-- [How to Use](#-how-to-use)
+- [How_to_use](#How_to_use)
 - [Tools & Technologies](#-tools--technologies)
 - [Insights & Findings](#-insights--findings)
 - [Recommendations](#-recommendations)

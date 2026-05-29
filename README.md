@@ -13,9 +13,9 @@ Designed to help ecommerce businesses see if they’re truly growing, this dashb
 ##  Table of Contents
 
 - [Project_Overview](#Project_Overview)
-- [Business Problem](#-business-problem)
-- [Dashboard Preview](#-dashboard-preview)
-- [Key Metrics & KPIs](#-key-metrics--kpis)
+- [Business_Problem](#Business_Problem)
+- [Dashboard_Preview](#Dashboard_Preview)
+- [Key_Metrics & KPIs](#Key_Metrics_&_Kpis)
 - [Data Model](#-data-model)
 - [DAX Measures](#-dax-measures)
 - [Dashboard Features](#-dashboard-features)
@@ -29,7 +29,7 @@ Designed to help ecommerce businesses see if they’re truly growing, this dashb
 
 ---
 
-##  Project Overview
+#  Project Overview
 
 This project delivers an **interactive single-page Power BI dashboard** designed for ecommerce business stakeholders to monitor sales health, customer behaviour, and product movement in real time. It enables data-driven decision-making by surfacing year-over-year (YoY) trends across revenue, volume, pricing, and customer base.
 

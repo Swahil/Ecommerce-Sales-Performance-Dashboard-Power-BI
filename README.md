@@ -21,7 +21,7 @@ Designed to help ecommerce businesses see if they’re truly growing, this dashb
 - [Dashboard_Features](#Dashboard_Features)
 - [File_Structure](#File_Structure)
 - [How_to_use](#How_to_use)
-- [Tools & Technologies](#Tools_&_Technologies)
+- [Tools and Technologies](#Tools_and_Technologies)
 - [Insights & Findings](#Insights_&_Findings)
 - [Recommendations](#Recommendations)
 - [Future Enhancements](#Future_Enhancements)
@@ -226,7 +226,7 @@ Home → Publish → Select your workspace → Open in Power BI Service
 
 ---
 
-# Tools_&_Technologies
+# Tools_and_Technologies
 
 | Tool | Purpose |
 |---|---|

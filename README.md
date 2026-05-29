@@ -13,19 +13,19 @@ Designed to help ecommerce businesses see if they’re truly growing, this dashb
 ##  Table of Contents
 
 - [Project_Overview](#Project_Overview)
-- [Business_Problem](#Business_Problem)
-- [Dashboard_Preview](#Dashboard_Preview)
-- [Key_Metrics & KPIs](#Key_Metrics_&_Kpis)
-- [Data Model](#-data-model)
-- [DAX Measures](#-dax-measures)
-- [Dashboard Features](#-dashboard-features)
-- [File Structure](#-file-structure)
-- [How_to_use](#How_to_use)
-- [Tools & Technologies](#-tools--technologies)
-- [Insights & Findings](#-insights--findings)
-- [Recommendations](#-recommendations)
-- [Future Enhancements](#-future-enhancements)
-- [Author](#-author)
+- [Business_Problem](##Business_Problem)
+- [Dashboard_Preview](##Dashboard_Preview)
+- [Key_Metrics_&_KPIs](##Key_Metrics_&_KPIs)
+- [Data_Model](##Data_Model)
+- [DAX_Measures](##DAX_Measures)
+- [Dashboard_Features](##Dashboard_Features)
+- [File_Structure](##File_Structure)
+- [How_to_use](##How_to_use)
+- [Tools & Technologies](##Tools_&_Technologies)
+- [Insights & Findings](##Insights_&_Findings)
+- [Recommendations](##Recommendations)
+- [Future Enhancements](##Future_Enhancements)
+- [Author](##Author)
 
 ---
 
@@ -286,7 +286,7 @@ Based on the dashboard analysis:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE) — free to use, adapt, and share with attribution.
 

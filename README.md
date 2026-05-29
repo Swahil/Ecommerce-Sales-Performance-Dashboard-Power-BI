@@ -12,7 +12,7 @@ Designed to help ecommerce businesses see if they’re truly growing, this dashb
 
 ##  Table of Contents
 
-- [Project Overview](#-project-overview)
+- [Project_Overview](#Project_Overview)
 - [Business Problem](#-business-problem)
 - [Dashboard Preview](#-dashboard-preview)
 - [Key Metrics & KPIs](#-key-metrics--kpis)

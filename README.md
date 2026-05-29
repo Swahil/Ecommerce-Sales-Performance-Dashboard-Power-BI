@@ -31,7 +31,7 @@ Designed to help ecommerce businesses see if they’re truly growing, this dashb
 
 # Project_Overview
 
-This project delivers an **interactive single-page Power BI dashboard** designed for ecommerce business stakeholders to monitor sales health, customer behaviour, and product movement in real time. It enables data-driven decision-making by surfacing year-over-year (YoY) trends across revenue, volume, pricing, and customer base.
+This project features an interactive one-page Power BI dashboard built to help ecommerce teams track sales performance, customer behaviour, and product activity in real time. It supports smarter, data-driven decisions by highlighting Year-over-Year (YoY) trends in revenue, sales volume, pricing, and customer growth.
 
 **Target Audience:** Sales Directors, Marketing Analysts, Supply Chain Managers, and C-Suite Executives.
 
@@ -174,7 +174,6 @@ DIVIDE(
 ```
  ecommerce-powerbi-dashboard/
 ├──  ECOMMERCE.pbix          # Main Power BI report file
-├──  README.md               # Project documentation (this file)
 ├──  data/                   # (Optional) Source data files
 │   ├── fact_table.csv
 │   ├── customer_dim.csv
@@ -183,8 +182,8 @@ DIVIDE(
 ├──  assets/                 # Screenshots & preview images
 │   ├── dashboard_overview.png
 │   └── data_model.png
-└──  docs/                   # Supporting documentation
-    └── data_dictionary.md
+├──  README.md               # Project documentation (this file)
+
 ```
 
 ---

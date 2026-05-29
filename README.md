@@ -199,8 +199,7 @@ DIVIDE(
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ecommerce-powerbi-dashboard.git
-   cd ecommerce-powerbi-dashboard
+   git clone https://github.com/Swahil/Ecommerce-Sales-Performance-Dashboard-Power-BI
    ```
 
 2. **Open the report**

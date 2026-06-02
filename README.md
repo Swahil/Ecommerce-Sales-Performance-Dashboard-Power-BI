@@ -276,16 +276,14 @@ Based on the dashboard analysis:
 
 # Author
 
-**[Benjamin Njoroge]**
+**Benjamin Njoroge**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Swahil)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:benjaminnjoroge7@gmail.com)
 
 ---
 
 # License
 
-This project is licensed under the [MIT License](LICENSE) — free to use, adapt, and share with attribution.
-
----
-
+This project is licensed under the [MIT License](LICENSE).You are free to use, modify, and distribute this project with attribution.
